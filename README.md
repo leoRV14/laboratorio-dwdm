@@ -14,7 +14,7 @@
 
 ---
 
-##  Resumen del Propósito
+##  Resumen del Propósito del Repositorio
 Este repositorio sirve como **manual de referencia y documentación técnica previa** a las sesiones presenciales de laboratorio. Su objetivo principal es garantizar la manipulación segura, eficiente y profesional de la maqueta de multiplexación por división de longitud de onda densa (DWDM). Aquí se estructuran los principios físicos, configuraciones de equipos y diagramas topológicos necesarios para operar la red de transporte.
 
 ---
